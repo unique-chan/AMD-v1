@@ -18,3 +18,8 @@
 - Official implementation for our proposed approach
 - Open dataset for AMD-v1
 
+### Preview
+<p align="center">
+  <img alt="Welcome" src="./figs/sample.png" />
+</p>
+
